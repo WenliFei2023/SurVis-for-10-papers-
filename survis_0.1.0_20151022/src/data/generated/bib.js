@@ -2,6 +2,7 @@
     "abidin2014improved": {
         "author": "Abidin, Ahmad Faisal and Kolberg, Mario and Hussain, Amir",
         "booktitle": "Seventh York Doctoral Symposium on Computer Science \\& Electronics",
+        "keywords": "statistical analysis, arrival time",
         "title": "Improved traffic prediction accuracy in public transport using trusted information in social networks",
         "type": "inproceedings",
         "volume": "19",
@@ -10,6 +11,7 @@
     "bayati2018multiple": {
         "author": "Bayati, Abdolkhalegh and Nguyen, Kim Khoa and Cheriet, Mohamed",
         "journal": "IEEE Communications Letters",
+        "keywords": "statistical analysis, overall traffic prediction",
         "number": "12",
         "pages": "2447--2450",
         "publisher": "IEEE",
@@ -21,6 +23,7 @@
     "hussain2021intelligent": {
         "author": "Hussain, Basharat and Afzal, Muhammad Khalil and Ahmad, Shafiq and Mostafa, Almetwally M",
         "journal": "IEEE Access",
+        "keywords": "machine learning, traffic flow",
         "pages": "100736--100746",
         "publisher": "IEEE",
         "title": "Intelligent Traffic Flow Prediction Using Optimized GRU Model",
@@ -31,6 +34,7 @@
     "lee2021short": {
         "author": "Lee, Kyungeun and Eo, Moonjung and Jung, Euna and Yoon, Yoonjin and Rhee, Wonjong",
         "journal": "IEEE Access",
+        "keywords": "machine learning, traffic flow, overall traffic prediction",
         "pages": "54739--54756",
         "publisher": "IEEE",
         "title": "Short-term traffic prediction with deep neural networks: A survey",
@@ -41,6 +45,7 @@
     "li2011public": {
         "author": "Li, Feng and Yu, Yuan and Lin, HongBin and Min, WanLi",
         "booktitle": "Proceedings of 2011 IEEE International Conference on Service Operations, Logistics and Informatics",
+        "keywords": "statistical analysis, arrival time",
         "organization": "IEEE",
         "pages": "336--341",
         "title": "Public bus arrival time prediction based on traffic information management system",
@@ -50,6 +55,7 @@
     "lin2017road": {
         "author": "Lin, Lu and Li, Jianxin and Chen, Feng and Ye, Jieping and Huai, Jinpeng",
         "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "keywords": "machine learning, traffic speed",
         "number": "7",
         "pages": "1310--1323",
         "publisher": "IEEE",
@@ -61,6 +67,7 @@
     "pan2019urban": {
         "author": "Pan, Zheyi and Liang, Yuxuan and Wang, Weifeng and Yu, Yong and Zheng, Yu and Zhang, Junbo",
         "booktitle": "Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery \\& data mining",
+        "keywords": "machine learning, traffic flow",
         "pages": "1720--1730",
         "title": "Urban traffic prediction from spatio-temporal data using deep meta learning",
         "type": "inproceedings",
@@ -69,6 +76,7 @@
     "tang2018forecasting": {
         "author": "Tang, Liyang and Zhao, Yang and Cabrera, Javier and Ma, Jian and Tsui, Kwok Leung",
         "journal": "IEEE Transactions on Intelligent Transportation Systems",
+        "keywords": "machine learning",
         "number": "10",
         "pages": "3613--3622",
         "publisher": "IEEE",
@@ -80,6 +88,7 @@
     "yin2021deep": {
         "author": "Yin, Xueyan and Wu, Genze and Wei, Jinze and Shen, Yanming and Qi, Heng and Yin, Baocai",
         "journal": "IEEE Transactions on Intelligent Transportation Systems",
+        "keywords": "comprehensive survey, overall traffic prediction",
         "number": "6",
         "pages": "4927--4943",
         "publisher": "IEEE",
@@ -91,6 +100,7 @@
     "zhou2022comprehensive": {
         "author": "Zhou, Zewei and Yang, Ziru and Zhang, Yuanjian and Huang, Yanjun and Chen, Hong and Yu, Zhuoping",
         "journal": "Iscience",
+        "keywords": "comprehensive survey, traffic flow, traffic speed",
         "pages": "103909",
         "publisher": "Elsevier",
         "title": "A comprehensive study of speed prediction in transportation system: From vehicle to traffic",
